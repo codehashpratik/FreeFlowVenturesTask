@@ -1,0 +1,4 @@
+In order to see the users who are online , you need to login two different acccount from different devices. 
+* In DrawerSection , you can able to see how many users are online.
+* Validation has been implemented in signUp/Login page in the textinput.
+*Logout feature has been implemented.
