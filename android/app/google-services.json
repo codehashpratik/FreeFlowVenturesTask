@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553913127941",
+    "project_id": "freeflowventurestask-740c4",
+    "storage_bucket": "freeflowventurestask-740c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553913127941:android:19964391d4ef804bf7386c",
+        "android_client_info": {
+          "package_name": "com.freeflowventurestask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEnva0uliHWmXBVPjCQCfdNzOR3dyLLZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
