@@ -2,3 +2,5 @@ In order to see the users who are online , you need to login two different accco
 * In DrawerSection , you can able to see how many users are online.
 * Validation has been implemented in signUp/Login page in the textinput.
 *Logout feature has been implemented.
+*The poke variable will keep updating in the firestore as long as you poke someone under users/collection/uid
+
